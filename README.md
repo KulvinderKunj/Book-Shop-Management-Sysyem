@@ -30,4 +30,3 @@ change Connection String in following Forms:
 ->Dashboard
 ->Login
 ->User
-2) For Detailed Documentation kindly Check " ReadMe2.pdf " file
